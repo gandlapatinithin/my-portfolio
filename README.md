@@ -1,6 +1,6 @@
 # 💼 Nithin Reddy Gandlapati - Developer Portfolio
 
-Welcome to my personal portfolio! This site showcases my projects, skills, and experiences as a developer passionate about Cloud Computing, DevOps, and Full-Stack Development.
+Welcome to my personal portfolio! This site showcases my projects, skills, and experiences as a developer passionate about Cloud Computing, DevOps, and Frontend.
 
 ## 🚀 Features
 
