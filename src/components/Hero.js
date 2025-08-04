@@ -49,8 +49,8 @@ const Hero = () => {
 
             <motion.a
               className="btn btn-outline"
-              href="Nithin-Reddy-Gandlapati-resume.pdf"
-              download="Nithin-Reddy-Gandlapati-Resume.pdf"
+              href="Nithin Reddy Gandlapati - Resume.pdf"
+              download="Nithin Reddy Gandlapati - Resume.pdf"
               whileHover={{ scale: 1.05, boxShadow: '0 0 20px rgba(102,126,234,0.6)' }}
               whileTap={{ scale: 0.95 }}
             >
